@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="4" time="0.361">
+<testcase classname="Aplication Login" name="Home Page default login" time="0.163">
+<system-out><![CDATA[Given User is on Netbanking landing page....................................passed
+When user login ito application with username and password..................passed
+Then Home page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Aplication Login" name="Test login" time="0.007">
+<system-out><![CDATA[Given User is on Netbanking landing page....................................passed
+When user login ito application following Datils............................passed
+Then Home page is populated.................................................passed
+And Cards are displayed.....................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Aplication Login" name="login" time="0.002">
+<system-out><![CDATA[Given User is on Netbanking landing page....................................passed
+When user login ito application With Aditya and Soni........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Aplication Login" name="login_2" time="0.005">
+<system-out><![CDATA[Given User is on Netbanking landing page....................................passed
+When user login ito application With Sonale and Gupta.......................passed
+]]></system-out>
+</testcase>
+</testsuite>
