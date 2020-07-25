@@ -7,7 +7,7 @@ Then Home page is populated
 And Cards are displayed
 
 
-@SmokeTest
+
 Scenario: Test login
 Given User is on Netbanking landing page
 When user login ito application following Datils
